@@ -5,4 +5,4 @@ Topics Studied
 * Javascript
 * Spatial Partitioning - Quadtrees
 * DOM Model
-* User Control Best Practices
+* User Control - Best Practices
