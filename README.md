@@ -3,7 +3,7 @@ Elementary physics simulation using Javascript.  Collision detection and resolut
 
 A running example can be found here: https://jsfiddle.net/9greLz70/
 
-Topics Studied
+Admissions Portfolio - Topics Studied
 * Javascript
 * Spatial Partitioning - Quadtrees
 * DOM Model
