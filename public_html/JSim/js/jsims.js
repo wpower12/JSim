@@ -1,4 +1,4 @@
-; //Global Container - I MADE A CHANGE
+; //Global Container
 (function () {
     //Simulation Class
     var Simulation = function () {
