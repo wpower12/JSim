@@ -8,7 +8,7 @@ Collision resolution follows the examples given in this great tutorial: http://w
 I tried to keep my naming conventions the same as the articles, with a simialar code layout.  The global function
 resolveCollision(b1, b2) contains the implementation.
 
-Admissions Portfolio - Topics Studied
+####Admissions Portfolio - Topics Studied
 * Javascript
 * Spatial Partitioning - Quadtrees
 * DOM Model
